@@ -1,2 +1,2 @@
 # ML-Project
-Using Semi supervised approach
+Using Semi Supervised Approach
